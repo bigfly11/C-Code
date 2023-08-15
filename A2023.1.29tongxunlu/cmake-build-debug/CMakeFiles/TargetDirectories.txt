@@ -1,0 +1,5 @@
+D:/develop/c code/study/A2023.1.29tongxunlu/cmake-build-debug/CMakeFiles/A2023_1_29tongxunlu.dir
+D:/develop/c code/study/A2023.1.29tongxunlu/cmake-build-debug/CMakeFiles/test.dir
+D:/develop/c code/study/A2023.1.29tongxunlu/cmake-build-debug/CMakeFiles/contract.dir
+D:/develop/c code/study/A2023.1.29tongxunlu/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/develop/c code/study/A2023.1.29tongxunlu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
