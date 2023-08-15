@@ -1,0 +1,4 @@
+D:/develop/c code/study/A2023.1.30/cmake-build-debug/CMakeFiles/A2023.1.30.dir
+D:/develop/c code/study/A2023.1.30/cmake-build-debug/CMakeFiles/main.dir
+D:/develop/c code/study/A2023.1.30/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/develop/c code/study/A2023.1.30/cmake-build-debug/CMakeFiles/rebuild_cache.dir
