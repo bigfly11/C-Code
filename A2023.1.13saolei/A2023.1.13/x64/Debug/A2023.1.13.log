@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(A2023.1.13.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  game.c
+D:\develop\c代码\学习\A2023.1.13\A2023.1.13\game.c(14,19): warning C4028: 形参 1 与声明不同
+D:\develop\c代码\学习\A2023.1.13\A2023.1.13\game.c(36,19): warning C4028: 形参 1 与声明不同
+D:\develop\c代码\学习\A2023.1.13\A2023.1.13\game.c(73,25): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+D:\develop\c代码\学习\A2023.1.13\A2023.1.13\game.c(76,22): warning C4048: “char (*)[9]”和“char (*)[11]”数组的下标不同
+D:\develop\c代码\学习\A2023.1.13\A2023.1.13\game.c(84,22): warning C4048: “char (*)[9]”和“char (*)[11]”数组的下标不同
+  A2023.1.13.vcxproj -> D:\develop\c代码\学习\A2023.1.13\x64\Debug\A2023.1.14.exe
