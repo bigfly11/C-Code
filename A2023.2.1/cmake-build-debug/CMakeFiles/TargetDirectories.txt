@@ -1,0 +1,3 @@
+D:/develop/c code/study/A2023.2.1/cmake-build-debug/CMakeFiles/A2023.2.1.dir
+D:/develop/c code/study/A2023.2.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/develop/c code/study/A2023.2.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
